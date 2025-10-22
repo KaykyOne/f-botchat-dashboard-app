@@ -1,0 +1,30 @@
+# 🧠 Projeto para Aprendizado
+
+Este projeto foi **criado e desenvolvido com o objetivo de aprimorar minhas habilidades em programação**.  
+Ele representa uma jornada prática de estudo, experimentação e aplicação de diferentes tecnologias modernas.
+
+---
+
+> ⚠️ **Aviso:**  
+> Este projeto **não deve ser utilizado para fins comerciais** ou de qualquer forma **imprópria ou indevida**.
+
+---
+
+## 🧩 O que foi desenvolvido
+
+- **Dashboard** para manutenção, configuração e visualização do funcionamento do chatbot  
+- **Chatbot baseado em Chromium**, com automação de mensagens  
+- **Chatbot com rede própria**, independente de navegadores  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- **JavaScript (JS)**
+- **TypeScript (TS)**
+- **Next.js**
+- **Supabase**
+
+---
+
+💬 *Este repositório reflete minha evolução como desenvolvedor e serve como espaço de testes e aprendizado contínuo.*
