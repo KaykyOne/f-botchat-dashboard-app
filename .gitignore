@@ -28,11 +28,6 @@ session
 .DS_Store
 *.pem
 
-.next
-/.next
-next
-/next
-
 /auth_info
 auth_info
 auth_info_1760445445746
